@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Asp.NetCoreIdentity/.vs/Asp.NetCoreIdentity
+/Asp.NetCoreIdentity/Asp.NetCoreIdentity/obj
