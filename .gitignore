@@ -4,3 +4,8 @@
 
 /Asp.NetCoreIdentity/.vs/Asp.NetCoreIdentity
 /Asp.NetCoreIdentity/Asp.NetCoreIdentity/obj
+/Asp.NetCoreIdentity/Asp.NetCoreIdentity.AppHost/obj
+/Asp.NetCoreIdentity/Asp.NetCoreIdentity.ServiceDefaults/obj
+/Asp.NetCoreIdentity/Asp.NetCoreIdentity/bin/Debug/net9.0
+/Asp.NetCoreIdentity/Asp.NetCoreIdentity.AppHost/bin/Debug/net9.0
+/Asp.NetCoreIdentity/Asp.NetCoreIdentity.ServiceDefaults/bin/Debug/net9.0
