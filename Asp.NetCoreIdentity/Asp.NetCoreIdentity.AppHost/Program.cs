@@ -8,6 +8,7 @@ var server = builder.AddSqlServer("sqlserver", password: password, port: 3000)
 var database = server.AddDatabase("AspnetIdentityDb");
 
 builder.AddProject<Projects.Asp_NetCoreIdentity>("asp-netcoreidentity")
-    .WithReference(database);
+    .WithReference(database)
+    .WaitFor(database);
 
 builder.Build().Run();
